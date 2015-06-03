@@ -1,7 +1,7 @@
 #Species,Strain,Source,URL,Version,PMID,Notes
-Arabidopsis thaliana,Columbia,TAIR,http://phytozome.jgi.doe.gov/pz/#!bulk?org=Org_Athaliana,10,22140109,Obtained from Phytozome
+Arabidopsis thaliana,Columbia,TAIR,http://phytozome.jgi.doe.gov/,10,22140109,Obtained from Phytozome
 Capsaspora owczarzaki,ATCC 30864,Broad,https://www.broadinstitute.org/annotation/genome/multicellularity_project,3,23942320,
-Chlamydomonas reinhardtii,CC-503,JGI,http://phytozome.jgi.doe.gov/pz/#!info?alias=Org_Creinhardtii,5.5,http://genome.jgi.doe.gov/pages/dynamicOrganismDownload.jsf?organism=Creinhardtii,5.5,17932292,
+Chlamydomonas reinhardtii,CC-503,JGI,http://phytozome.jgi.doe.gov/,5.5,17932292,
 Drosophila_melanogaster,,FlyBase,http://flybase.org/,,10731132,
 Monosiga brevicolis,MX1,JGI,http://genome.jgi-psf.org/Monbr1/Monbr1.home.html,1,18273011,
 Toxopasma gondii,ME49,ToxoDB,http://toxodb.org,13,ABPA00000000.2,Unpublished but public
